@@ -20,7 +20,7 @@ import com.badlogic.gdx.math.Vector3;
 import com.badlogic.gdx.scenes.scene2d.Stage;
 import com.badlogic.gdx.scenes.scene2d.ui.Label;
 
-public class SimpleGame extends InputAdapter implements ApplicationListener {
+public class MyGdxGame extends InputAdapter implements ApplicationListener {
     public PerspectiveCamera cam;
 
     public Model model;
